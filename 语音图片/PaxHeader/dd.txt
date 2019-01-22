@@ -1,0 +1,3 @@
+62 path=PycharmProjects/Speech Separation/语音图片/dd.txt
+27 mtime=1515744565.829227
+27 atime=1527326286.424221

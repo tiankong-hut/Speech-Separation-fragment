@@ -1,0 +1,8 @@
+TIMIT-sa1 、TIMIT-sa2、THCHS-A2_0、THCHS-A2_1 等为原始数据
+Timit_sa1 、Timit_sa2 是处理过的，供python使用。
+
+TIMIT-sa1 + T_white = TIMIT-sa1-white ，scale：1:0.005 ，length:46000 ,2s  
+TIMIT-sa2 + T_white = TIMIT-sa2-white ，scale：1:0.005 ，length:34509 ,2s
+
+THCHS-A2_0 + T_white =THCHS-A2_0-white ，scale：1:0.01 ,length:157000 ,9s
+THCHS-A2_1 + T_white =THCHS-A2_1-white ，scale：1:0.01 ，length:163000,10s

@@ -1,0 +1,3 @@
+127 path=PycharmProjects/Speech Separation/语音图片/TIMIT-sa1-white文件/TIMIT-sa1-white图片等/TIMIT-sa1-white-FFT.txt
+26 mtime=1515559202.98865
+27 atime=1527326287.368221
